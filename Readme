@@ -1,0 +1,15 @@
+Proyecto "Juego de Gato" en Python (Equipo)
+Este proyecto es un juego de Gato implementado en Python. El juego permite a dos jugadores jugar contra el otro en un tablero de 3x3, utilizando las tradicionales (X y O).
+•	El programa presentará un tablero de 3x3. 
+•	Los jugadores se turnarán para marcar sus fichas (X y O) en el tablero. 
+•	El jugador introduce la posición donde quiere colocar su ficha.
+•	El juego termina cuando alguien gana o cuando no hay más movimientos posibles. 
+
+Cómo jugar
+
+1.El juego te pedirá que ingreses el número de la casilla donde deseas colocar tu marca (X o O).  Las casillas están numeradas de 1 a 9, siguiendo el orden de arriba a abajo y de izquierda a derecha.
+2. Alternarás con el ordenador hasta que alguien gane o se declare un empate.
+3. **Ganador**  El juego anunciará el ganador o el empate cuando la partida finalice.
+
+
+Este programa se presenta en código de programación estructurada, programación orientada a objetos, también un diagrama de clases, un algoritmo en Pseint y con interfaz gráfica en tkinter.
